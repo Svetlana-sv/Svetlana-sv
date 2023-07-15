@@ -6,15 +6,27 @@
 <div> 
   <p>
     <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png">&nbsp
-    <img height="20" src="https://img1.pnghut.com/23/6/9/MuQXWFxY4g/microsoft-sign-brand-amazon-web-services-text.jpg">
+    <img height="20" src="https://www.tutorialsteacher.com/Content/images/home/sql.png">
   </p>
 </div>
+
+### Libraries
+<div> 
+  <p>
+    <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png">&nbsp
+    <img height="20" src="https://raw.githubusercontent.com/rtk-incubator/rtk-query/main/logo.png">
+  </p>
+</div>
+
 
 ### Tools
 <div> 
   <p>
-    <img height="20" src="https://www.businesswire.com/news/home/20220414005114/en/Postman-API-Platform-Surpasses-20-Million-Users-Driven-by-Vision-for-API-First-World">&nbsp
+    <img height="20" src="https://yt3.googleusercontent.com/X-rhKMndFm9hT9wIaJns1StBfGbFdLTkAROwm4UZ3n9ucrBky5CFIeeZhSszFXBgQjItzCD0SA=s900-c-k-c0x00ffffff-no-rj">&nbsp
     <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
+     <img height="20" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png">
+    <img height="20" src="https://vitejs.dev/logo-with-shadow.png">
+    <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg">
   </p>
 </div>
 
